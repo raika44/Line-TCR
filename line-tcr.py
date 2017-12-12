@@ -61,7 +61,7 @@ Setgroup =""" Private Menu 􀔃􀄆red check mark􏿿
 
 􀔃􀅕red arrow right􏿿 Command Private
 [Set View] = Melihat proteksi bot
-[Get ready] = Cek respon bot
+[Get ready] = Cek respon bots
 [Gn namagroup] = Ganti nama grup
 [Open url] = Membuka url grup
 [Gurl] = Membuka dan mengirim url grup
